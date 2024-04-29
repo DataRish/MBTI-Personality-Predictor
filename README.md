@@ -1,6 +1,6 @@
-> Project Title : Personality Prediction
->
-> **Name :** Rishabh Sharma
+**Project Title : Personality Prediction**
+
+**Name :** Rishabh Sharma
 
 **Project Description:** <span class="mark">The objective of this
 project is to predict MBTI personality of users</span>
